@@ -38,6 +38,9 @@ watch http://localhost:6006/
 
 ![](./generation/generated/samples.png)
 
+## How do overiview gifs
+described in `animation.ipynb`
+
 
 ## Remark
 I work on mac m1, then use `torch.device('mps')` 
